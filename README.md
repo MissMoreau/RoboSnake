@@ -4,6 +4,7 @@ This is an implementation of a 4-player [Snake](https://en.wikipedia.org/wiki/Sn
 
 People will "play" the game by trying to program clever AI agents (or "bots") to compete against other people's AI agents.
 
+Initialize this game by running "npm i" in the terminal and then running the code.
 ## Gameplay
 
 There is no user input in the game: the keyboard and mouse do not do anything. All four players are controlled by AI agent code. The "Run game" button starts the game.
