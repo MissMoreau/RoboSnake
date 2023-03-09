@@ -1,0 +1,24 @@
+My changes to the code are supposed to add extensability, 
+improve readability, and improve the documentation.
+
+As for improving extensibility, my code should make it easy 
+for users to create new AI agents by making so that they only 
+have to change one line of exisiting code. I plan to modify 
+the code to accomplish this by separating the AI agents into 
+reusable code classes, this way the agent can be changed easily. 
+I will also modify the code so that there is only one line in 
+GameRunner.ts that should be changed by the user for their
+additions.
+
+For improving readability, my code should clean up the 
+existing code by adding abstraction and changing names. I plan
+to modify the code to abstract out some repeated methods
+and to change names that don't make a lot of sense to names 
+that clearly show what the variables contain or what the 
+functions do.
+
+Finally, the code has some comments, but my code should add 
+comments that would help users understand what is going and 
+and what they need to do. I plan to modify the code to add 
+comments that show the user how to extend the code by creating
+a new agent and how to change the agent that controls a player.
